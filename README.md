@@ -11,12 +11,14 @@ Most of my projects are experiments that turned into useful tools — bots, dash
 `PostgreSQL` · `Docker` · `Playwright` · `Jest` · `TailwindCSS`  
 
 🖥️ Linux & Windows  
-📦 Git · GitHub · Firebase · Postman  
+📦 Git · GitHub · Supabase · Apidog  
 
 ---
 
 ### 🌍 Connect
 [GitHub](https://github.com/NeoCephei) • [LinkedIn](https://www.linkedin.com/in/magi-campo-troyano-55527490/) • [Email](mailto:magiupc@gmail.com)
+
+[Portfolio](https://neocephei-portfolio.vercel.app/)
 
 ---
 
